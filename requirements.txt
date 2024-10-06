@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+plotly
+scipy
+obspy
+tqdm
+hiddenlayer
+fvcore
